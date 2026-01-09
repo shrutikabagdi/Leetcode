@@ -20,7 +20,7 @@ public class Palindrome_Number_9 {
     public static void main(String[] args) {
         Palindrome_Number_9 obj = new Palindrome_Number_9();
 
-        int input = 121;   
+        int input = 121;
         System.out.println(obj.isPalindrome(input));
     }
 }
